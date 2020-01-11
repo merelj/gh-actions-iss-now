@@ -1,0 +1,13 @@
+{
+  "name": "iss-now-info",
+  "version": "0.0.1",
+  "description": "bot that sends ISS location to telegram every morning",
+  "main": "index.js",
+  "author": "merelj",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
