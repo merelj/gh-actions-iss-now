@@ -2,7 +2,7 @@ name: "ISS position Telegram bot"
 
 on:
   schedule:
-    - cron:  '*/15 * * * *'
+    - cron:  '0 9 20 * *'
 
 jobs:
   bot:
